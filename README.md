@@ -1,1 +1,1 @@
-# JujutsuKaisenVoting
+# Jujutsu Kaisen Voting App
